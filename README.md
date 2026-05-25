@@ -1,2 +1,2 @@
 # Data-Analysis-
- Data Analysis Intership Projects
+ Data Analysis Projects
